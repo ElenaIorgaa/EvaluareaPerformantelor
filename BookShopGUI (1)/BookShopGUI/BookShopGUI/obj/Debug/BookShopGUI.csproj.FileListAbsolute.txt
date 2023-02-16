@@ -1,0 +1,89 @@
+C:\Users\Roxy\source\repos\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe.config
+C:\Users\Roxy\source\repos\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe
+C:\Users\Roxy\source\repos\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.pdb
+C:\Users\Roxy\source\repos\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.AssemblyReference.cache
+C:\Users\Roxy\source\repos\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roxy\source\repos\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Properties.Resources.resources
+C:\Users\Roxy\source\repos\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.GenerateResource.cache
+C:\Users\Roxy\source\repos\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\Roxy\source\repos\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.exe
+C:\Users\Roxy\source\repos\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.pdb
+C:\Users\Roxy\source\repos\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form1.resources
+C:\Users\Roxy\source\repos\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form2.resources
+C:\Users\eiorg\Desktop\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe.config
+C:\Users\eiorg\Desktop\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe
+C:\Users\eiorg\Desktop\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.pdb
+C:\Users\eiorg\Desktop\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.AssemblyReference.cache
+C:\Users\eiorg\Desktop\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\eiorg\Desktop\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form1.resources
+C:\Users\eiorg\Desktop\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form2.resources
+C:\Users\eiorg\Desktop\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Properties.Resources.resources
+C:\Users\eiorg\Desktop\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.GenerateResource.cache
+C:\Users\eiorg\Desktop\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\eiorg\Desktop\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.exe
+C:\Users\eiorg\Desktop\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.pdb
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.AssemblyReference.cache
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form1.resources
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form2.resources
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Properties.Resources.resources
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.GenerateResource.cache
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.exe
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.pdb
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe.config
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.pdb
+C:\Users\Roxy\Downloads\BookShopGUI\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form3.resources
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe.config
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.pdb
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form1.resources
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form2.resources
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form3.resources
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.exe
+C:\Users\Lenovo\Desktop\proiect ia\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.pdb
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe.config
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.pdb
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.AssemblyReference.cache
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form1.resources
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form2.resources
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form3.resources
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Properties.Resources.resources
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.GenerateResource.cache
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.exe
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.pdb
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe.config
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.pdb
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.AssemblyReference.cache
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form1.resources
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form2.resources
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form3.resources
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Properties.Resources.resources
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.GenerateResource.cache
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.exe
+C:\Users\eiorg\Desktop\IA_FINAL_PROJECT\sper final\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.pdb
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe.config
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.exe
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\bin\Debug\BookShopGUI.pdb
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.AssemblyReference.cache
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form1.resources
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form2.resources
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Form3.resources
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.Properties.Resources.resources
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.GenerateResource.cache
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.exe
+C:\Users\Roxy\Downloads\BookShopGUI (1)\BookShopGUI\BookShopGUI\obj\Debug\BookShopGUI.pdb
