@@ -1,1 +1,1 @@
-Proiect in echipa pentru disciplina evaluarea performantelor (in cazul meu pentru algoritmul de evolutie diferentiala pentru recomandare de produse) (anul 4 de facultate) (folosindu-ne de codul de la proiectul de inteligenta artificiala)
+This was a team project made for the evaluation of performance using a project from another course (in my case, a code made in C# that uses differential evolution algorithm to generate an item recommendation) (4th year of university)
